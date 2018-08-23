@@ -14,7 +14,7 @@
             "type": "string",
             "displayName": "Time Zone",
             "description": "Windows Time Zone",
-            "defaultValue": "UTC",
+            
             "allowEmpty": false,
             "allowedValues": [
 ["(UTC-12:00) International Date Line West", "Dateline Standard Time"],
